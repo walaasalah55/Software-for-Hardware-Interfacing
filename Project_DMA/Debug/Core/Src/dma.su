@@ -1,0 +1,4 @@
+dma.c:5:6:DMA_init	16	static
+dma.c:34:6:DMA_parameters	24	static
+dma.c:66:6:start_transfer	4	static
+dma.c:79:6:transfer_state	8	static

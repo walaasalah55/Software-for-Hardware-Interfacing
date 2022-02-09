@@ -1,0 +1,4 @@
+main.c:11:6:seven_segment	16	static
+main.c:16:6:increment_counter	8	static
+main.c:26:6:decrement_counter	8	static
+main.c:36:5:main	16	static
