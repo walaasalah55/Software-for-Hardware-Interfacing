@@ -86,9 +86,5 @@ void transfer_state () {
 	  *DMA_LIFCR  |=(1<<3);
 }
 
-/*void DMA_ISR () {
-
-
-}*/
 
 
